@@ -32,7 +32,7 @@ const previousSelected = {
   type: undefined,
   id: undefined,
 };
-const serverPath = "https://tkpm-officer-host.onrender.com/";
+const serverPath = "https://tkpm-officer-host.onrender.com";
 
 // Mapbox generation
 mapboxgl.accessToken =
